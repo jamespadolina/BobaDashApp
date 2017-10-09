@@ -9,6 +9,7 @@ body {
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
   background:linear-gradient(white, gray, white);
+  background-image: url("C:\Users\James\Desktop\BobaDash App\Logo\Boba.jpg")
 }
 
 /*Google Maps */
@@ -98,7 +99,6 @@ border-bottom: black;
 }
 
 /*Footer*/
-
 .about_footer{
   display: table;
   text-align: center;
